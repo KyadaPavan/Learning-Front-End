@@ -1,0 +1,39 @@
+html{
+    width: 1000px;
+    padding: 20px;
+    margin:auto;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(23, 23, 228);
+    border: 5px solid rgb(23, 23, 228);
+    font-family:  sans-serif;
+    height: 500px;
+    background-color: rgb(243, 213, 170);
+}
+
+h1{
+    border-bottom: 5px solid blue;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+}
+
+p{
+    font-size: larger;
+    text-align: center ;
+    text-align: left;
+    padding-left: 120px;
+}
+
+li{
+    font-size: large;
+
+    list-style-position: inside;
+    padding-left: 75px;
+}
