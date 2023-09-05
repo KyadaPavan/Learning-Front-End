@@ -8,3 +8,6 @@ The Projects are of basic level which a beginner can perform.
 It is a basic Vision of our college. It is developed with help of simple HTML and some basic CSS.
 HTML in VISION MISSION includes H1 tags, some p tags and list tag.
 CSS includes Margin, Padding, Border, Color and Background Color.
+
+2) Basic Form
+
