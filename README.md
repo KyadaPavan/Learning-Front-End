@@ -9,5 +9,10 @@ It is a basic Vision of our college. It is developed with help of simple HTML an
 HTML in VISION MISSION includes H1 tags, some p tags and list tag.
 CSS includes Margin, Padding, Border, Color and Background Color.
 
+
 2) Basic Form
 
+It is the simple form made only with the hepl of HTML. It displays the use of vrious 'form' tags used to make a html form.
+This basic form is made with input tag, label tag, checkbox, radio button and subbmit button.
+There are different input types in HTML FORMS such as type=text for text, type=email for eamil id, type=radio for radio button, type=checkbox for checkbox, type=dtae for date, type=time for time, type=password for password, type=tel for phone number, type=subbmit for subbmit button etc. 
+There are ohter than these input types which you can refer from 'W3SCHOOLS'  https://www.w3schools.com/html/html_form_input_types.asp
