@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css" />
+  </head>
+  <body>
+
+    <div class="bookform">
+     
+      <form>
+        <h1>Domestic and International Flight</h1>
+        <div class="name">
+          <label for="fname">Name:</label>
+          <input type="text" id="name" placeholder="Enter Your Full Name" />
+        </div>
+        <br />
+
+        <div class="option">
+          <input type="radio" id="oneway" name="fav_language" value="oneway" />
+          <label for="oneway">One way</label>
+
+          <input type="radio" id="oneway" name="fav_language" value="oneway" />
+          <label for="oneway">Round-trip</label>
+
+          <input type="radio" id="oneway" name="fav_language" value="oneway" />
+          <label for="oneway">Multi City</label>
+        </div>
+
+        <br>
+
+        <fieldset class="form">
+          <legend>From</legend>
+          <input type="text" placeholder="Enter City or Airpot" />
+        </fieldset>
+
+        <fieldset class="to">
+          <legend>To</legend>
+          <input type="text" placeholder="Enter City or Airpot" />
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+          <legend>Departure</legend>
+          <input type="date" id="Departure" name="DepartureTime" />
+        </fieldset>
+
+        <fieldset>
+          <legend>Return</legend>
+          <input type="date" id="Departure" name="DepartureTime" />
+        </fieldset>
+
+        <br />
+
+        <fieldset>
+          <legend>Classes</legend>
+          <select id="class" name="Classes">
+            <option value="Economy">Economy</option>
+            <option value="Premimum Economy">Premimum Economy</option>
+            <option value="Business">Business</option>
+            <option value="First Class">First Class</option>
+          </select>
+        </fieldset>
+
+        <fieldset>
+          <legend>No of Tickets</legend>
+          <input type="text" placeholder="Enter Number Of Tickets" />
+        </fieldset>
+
+        <br />
+
+        <button>
+          <a href="https://www.goibibo.com" target="_blank">Search Flight</a>
+        </button>
+      </form>
+
+    </div>
+  </body>
+</html>
