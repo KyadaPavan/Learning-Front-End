@@ -16,3 +16,11 @@ It is the simple form made only with the hepl of HTML. It displays the use of vr
 This basic form is made with input tag, label tag, checkbox, radio button and subbmit button.
 There are different input types in HTML FORMS such as type=text for text, type=email for eamil id, type=radio for radio button, type=checkbox for checkbox, type=dtae for date, type=time for time, type=password for password, type=tel for phone number, type=subbmit for subbmit button etc. 
 There are ohter than these input types which you can refer from 'W3SCHOOLS'  https://www.w3schools.com/html/html_form_input_types.asp
+
+
+4) Form
+
+It is a Flight Registration Form developed with HTML ans CSS. 
+It is made up off input tag, label tag, legend tag, fieldset tag, placeholder tag, buttons, date as an input tag, select tag. There is a special CSS Gradient used in this form.  
+
+
