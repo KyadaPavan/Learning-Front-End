@@ -23,4 +23,10 @@ There are ohter than these input types which you can refer from 'W3SCHOOLS'  htt
 It is a Flight Registration Form developed with HTML ans CSS. 
 It is made up off input tag, label tag, legend tag, fieldset tag, placeholder tag, buttons, date as an input tag, select tag. There is a special CSS Gradient used in this form.  
 
+5) NavBars
+
+Navbar are most important part of the websites.
+Navbar1, Navbar2, Navbar3 are different types of navbar. All three navbars are with different variation, one of them has fixed postion, one of them has buttons in navbar.
+
+
 
