@@ -36,6 +36,8 @@ HH gives basic information of Hip-Hop in India. It is completely made by using f
 
 7) Practicals
 
+These are the basic college practicals that i perfomed.
+
    
 
 
