@@ -34,4 +34,9 @@ Navbar1, Navbar2, Navbar3 are different types of navbar. All three navbars are w
 HH gives basic information of Hip-Hop in India. It is completely made by using float right & left.
 
 
+7) Practicals
+
+   
+
+
 
