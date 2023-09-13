@@ -36,7 +36,7 @@ HH gives basic information of Hip-Hop in India. It is completely made by using f
 
 7) Practicals
 
-These are the basic college practicals that i perfomed.
+These are the basic college practicals that i perfomed and these practical are healpful to master HTML and basic of CSS.
 
    
 
